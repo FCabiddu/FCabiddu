@@ -8,7 +8,7 @@ Since 2026 I work with agentic development: a multi-agent system on Claude Code 
 ## Projects
 
 - **[Tavern Forge](https://github.com/FCabiddu/tavern-forge-case-study)** — an online fantasy tabletop RPG with an AI game master. Case study with architecture and technical decisions; the source is proprietary.
-- **Multi-agent development system** — analyst, architect, task-writer, developer, reviewer, tester and security agents on Claude Code, with hooks and scripts that enforce the flow. Private repository, demo on request.
+- **[Multi-agent development system](https://github.com/FCabiddu/pocket-it)** — analyst, architect, task-writer, developer, reviewer, tester and security agents on Claude Code, with hooks and scripts that enforce the flow.
 
 ## Stack
 
